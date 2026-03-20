@@ -3,3 +3,13 @@ public class Main {
         System.out.println("Witam gałazka!");
     }
 }
+public class Samochod {
+    String marka;
+    int rok;
+
+    // Konstruktor
+    public Samochod(String marka, int rok) {
+        this.marka = marka;
+        this.rok = rok;
+    }
+}
