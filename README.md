@@ -1,0 +1,1 @@
+Jest to pierwsze cwiczenie do PGO Igor Pawlik
