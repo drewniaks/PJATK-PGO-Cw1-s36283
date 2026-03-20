@@ -13,3 +13,8 @@ public class Samochod {
         this.rok = rok;
     }
 }
+
+public class Samolot{
+    int model;
+    
+}
